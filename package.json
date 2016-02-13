@@ -2,8 +2,9 @@
   "name": "aws-s3-uploader",
   "version": "0.1.0",
   "author": "Pascal Vree <pascal.vree@rogare.org>",
+  "main": "src/app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node src/app.js"
   },
   "license": "ISC",
   "dependencies": {
