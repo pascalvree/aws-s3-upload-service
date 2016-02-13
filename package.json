@@ -8,6 +8,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.2.35"
+    "aws-sdk": "^2.2.35",
+    "uuid": "^2.0.1"
   }
 }
